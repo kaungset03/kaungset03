@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hello! I'm [Kaung Set]
 
-<!--
-**kaungset03/kaungset03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Web Developer** and a **Computer Science** student at the **University of the People (UoPeople)**. I love crafting intuitive and dynamic web applications, and I'm currently expanding my skill set into desktop development with **Tauri**!
 
-Here are some ideas to get you started:
+### 🛠 Technologies & Tools
+- **Frontend**: React.js, Next.js
+- **Backend**: Express.js, Laravel
+- **Desktop**: Learning Tauri
+- **Languages**: JavaScript, PHP, HTML, CSS, SQL
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Version Control**: Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Current Focus
+I'm currently deep-diving into:
+- **Computer Science Fundamentals** (Algorithms, Data Structures)
+- **Desktop Development** with **Tauri**
+- Building efficient, scalable full-stack applications
+
+
+### 📫 How to reach me
+- [GitHub](https://github.com/kaungset03)
