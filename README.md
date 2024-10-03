@@ -1,4 +1,4 @@
-# 👋 Hello! I'm [Kaung Set]
+# 👋 Hello! I'm Kaung Set
 
 I'm a passionate **Web Developer** and a **Computer Science** student at the **University of the People (UoPeople)**. I love crafting intuitive and dynamic web applications, and I'm currently expanding my skill set into desktop development with **Tauri**!
 
