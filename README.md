@@ -19,3 +19,4 @@ I'm currently deep-diving into:
 
 ### 📫 How to reach me
 - [GitHub](https://github.com/kaungset03)
+- **Email**: kset312000@gmail.com
