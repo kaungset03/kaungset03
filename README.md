@@ -12,7 +12,6 @@ I'm a passionate **Web Developer** and a **Computer Science** student at the **U
 
 ### 📚 Current Focus
 I'm currently deep-diving into:
-- **Computer Science Fundamentals** (Algorithms, Data Structures)
 - **Desktop Development** with **Tauri**
 - Building efficient, scalable full-stack applications
 
