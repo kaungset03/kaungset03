@@ -14,8 +14,3 @@ I'm a **Computer Science** student at the **University of the People (UoPeople)*
 I'm currently deep-diving into:
 - **Desktop Development** with **Tauri**
 - Building efficient, scalable full-stack applications
-
-
-### 📫 How to reach me
-- [GitHub](https://github.com/kaungset03)
-- **Email**: kset312000@gmail.com
