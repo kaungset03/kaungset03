@@ -1,5 +1,5 @@
-# 💫 About Me
-Hello, my name is Kaung Set. I’m a software developer focused on building full-stack web applications and cross-platform desktop software.
+# 💫 Hello
+Hi, my name is Kaung Set. I’m a software developer focused on building full-stack web applications and cross-platform desktop software.
 
 Currently working on:
 - 🎵 **Sonara** – A cross-platform desktop music player built with React, TypeScript, Rust, and Tauri
